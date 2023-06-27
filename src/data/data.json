@@ -4,21 +4,17 @@
     "subtitle1":"a",
     "subtitle2":"Complete",
     "subtitle3":"tech-solution",
-    "paragraph": "Discover a world of endless possibilities at our web store. Unleash your desires, explore the latest trends, and find the perfect products that elevate your digital lifestyle."
+    "paragraph": "ALerting today for Better Tomorrow!!! Here, Security Never Sleeps Unleash your desires, explore the latest trends, and find the perfect products that elevate your digital lifestyle."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to Soft Line, your trusted source for state-of-the-art security devices. We specialize in providing cutting-edge solutions to protect your home, business, and loved ones. With a passion for innovation and a commitment to excellence, we are dedicated to delivering top-quality security products that bring you peace of mind.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "We offer a wide range of security devices designed to meet various needs and scenarios. From robust surveillance cameras and smart locks to motion sensors and alarm systems, our products are meticulously selected to provide you with the highest level of security. Each device undergoes rigorous testing to ensure durability, reliability, and seamless integration into your existing security infrastructure.",
+      "Quality and Reliability"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "At Soft Line, we understand that your security cannot be compromised. That's why we prioritize quality and reliability in every product we offer. Our security devices are sourced from trusted manufacturers known for their commitment to excellence. We rigorously test and evaluate each device to ensure it meets our stringent standards before making it available to our valued customers.",
+      "We offer competitive pricing without compromising on the quality of our service."
     ]
   },
   "Gallery": [
@@ -164,22 +160,22 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-desktop",
+      "title": "Computers",
+      "text": "Systems..."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lock",
+      "title": "Security Systems",
+      "text": "Security Systems... "
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-camera-cctv",
+      "title": "Biometrics",
+      "text": "Biometric Systems..."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-camera-camcoder",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }

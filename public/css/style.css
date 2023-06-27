@@ -603,4 +603,39 @@ label {
   #about img {
     margin: 50px 0;
   }
+
+  #features{
+    margin-top: 50px;
+    margin-left: 60px;
+  }
+
+  #about{
+    margin-top: 50px;
+    margin-left: 60px;
+  }
+
+  #services{
+    margin-left: 60px;
+  }
+
+  #portfolio{
+    margin-left: 60px;
+  }
+
+  #testimonials{
+    margin-left: 60px;
+  }
+  
+  #team{
+    margin-left: 60px;
+  }
+
+  #contact{
+    margin-left: 60px;
+  }
+
+  #footer{
+    margin-left: 60px;
+  }
+
 }
